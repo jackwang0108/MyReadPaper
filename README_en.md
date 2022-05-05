@@ -21,8 +21,6 @@ In consideration of copyright, all the paper are mainly chosen from Arxiv, ICCV/
 
 During reading, I may highlight some sentences or words. In consideration of confusion, the meaning of each highlight is:
 
-在阅读PDF的时候，我会做一些标注，标注的约定如下：
-
 - `Blue Highlight`: terms and words/sentences that I'm confused about (will be comment)
 - `Green Hightlight`: some parallel words, sentences or paragraph.
 - `Yellow Highlight`: important sentences.
@@ -31,7 +29,7 @@ During reading, I may highlight some sentences or words. In consideration of con
 
 
 
-#### 阅读方法
+#### Reading Methods
 
 For better understand the paper and get information of the paper according to the given time, I mainly use `Three Pass` reading methods proposed by S. Keshav. But since the subjects are different, some modifications are needed, so I may not following the reading methods strictly.
 
@@ -39,7 +37,7 @@ For better understand the paper and get information of the paper according to th
 
 
 
-#### 参考文献
+#### Reference
 
 [1] Keshav S. How to read a paper[J]. ACM SIGCOMM Computer Communication Review, 2007, 37(3): 83-84.
 
