@@ -2,13 +2,15 @@
 
 **10 paper in total**
 
+[toc]
 
 
 
 
 
 
-## Categories
+
+# Categories
 
 1. `3D Convolution`
 2. `Two Stream`
@@ -21,15 +23,15 @@
 
 
 
-## Uncategorized
+# Uncategorized
 
 **1 paper in total**
 
-### 1. Finished
+#### 1. Finished
 
 - None
 
-### 2. Planned
+#### 2. Planned
 
 - `A Closer Look at Spatiotemporal Convolutions for Action Recognition`
   - Arxiv: https://arxiv.org/abs/1711.11248
@@ -42,18 +44,18 @@
 
 
 
-## Datasets
+# Datasets
 
 **1 paper in total**
 
-### 1. Finished
+#### 1. Finished
 
 - `The Kinetics Human Action Video Dataset`
   - Arxiv: https://arxiv.org/abs/1705.06950
   - PDF: https://arxiv.org/pdf/1705.06950.pdf
   - Publish: `Arxiv 2017 `
 
-### 2. Planned
+#### 2. Planned
 
 - None
 
@@ -63,11 +65,11 @@
 
 
 
-## Survey
+# Survey
 
 **1 paper in total**
 
-### 1. Finished
+#### 1. Finished
 
 - `A Comprehensive Study of Deep Video Action Recognition`
   - Arxiv: https://arxiv.org/abs/2012.06567
@@ -75,7 +77,7 @@
   - Publish: `Arxiv 2020`
   - Finished Date: 2022/03/21
 
-### 2. Planned
+#### 2. Planned
 
 - None
 
@@ -85,11 +87,11 @@
 
 
 
-## Two Stream
+# Two Stream
 
 **2 paper in total**
 
-### 1. Finished
+#### 1. Finished
 
 - `Two-Stream Convolutional Networks for Action Recognition in Videos`
   - Arxiv: https://arxiv.org/abs/1406.2199
@@ -97,7 +99,7 @@
   - Publish: `NIPS 2020`
   - Finished Date: 2022/03/11
 
-### 2. Planned
+#### 2. Planned
 
 - `Temporal Segment Networks: Towards Good Practices for Deep Action Recognition`
   - Arxiv: https://arxiv.org/abs/1608.00859
@@ -110,11 +112,11 @@
 
 
 
-## 3D Convolution
+# 3D Convolution
 
 **5 paper in total**
 
-### 1. Finished
+#### 1. Finished
 
 - `Learning Spatiotemporal Features with 3D Convolutional Networks`
   - Arxiv: https://arxiv.org/abs/1412.0767
@@ -127,7 +129,7 @@
   - Publish: `ICLR 2022`
   - Finished Date: 2022/03/05
 
-### 2. Planned
+#### 2. Planned
 
 - `Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset`
   - Arxiv: https://arxiv.org/abs/1705.07750
