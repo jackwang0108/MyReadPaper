@@ -11,7 +11,7 @@ All the paper in the repository are categorized according to the topic. And unde
 
 #### Notes
 
-In consideration of copyright, all the paper are mainly chosen from Arxiv, ICCV/ECCV/NIPS open proceedings, and author released version. If you think this repository offend your copyright, please contact me (2232123545@qq.com/jack3shihong@gmail.com), and I will delete the paper immediately.
+In consideration of copyright, all the paper are mainly chosen from Arxiv, ICCV/ECCV/NIPS open proceedings, and author released version. If you think this repository offends your copyright, please contact me (2232123545@qq.com/jack3shihong@gmail.com), and I will delete the paper immediately.
 
 
 
