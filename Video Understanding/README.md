@@ -2,7 +2,7 @@
 
 **10 paper in total**
 
-[toc]
+
 
 
 
